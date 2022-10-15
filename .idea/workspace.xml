@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0401890a-bc96-4734-8735-7081b9218f74" name="Changes" comment="6. DI - дз: добавление списка">
+    <list default="true" id="0401890a-bc96-4734-8735-7081b9218f74" name="Changes" comment="8. factory method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationcontext.xml" afterDir="false" />
     </list>
@@ -24,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -78,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665805912961</updated>
-      <workItem from="1665805914669" duration="8447000" />
+      <workItem from="1665805914669" duration="9638000" />
     </task>
     <task id="LOCAL-00001" summary="IoC">
       <created>1665809817492</created>
@@ -129,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665812773859</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="8. init destroy methods">
+      <created>1665816602075</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665816602075</updated>
+    </task>
+    <task id="LOCAL-00009" summary="8. factory method">
+      <created>1665816810039</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665816810039</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +173,8 @@
     <MESSAGE value="6. DI - внедрение значений" />
     <MESSAGE value="6. DI - из файла пропертиес" />
     <MESSAGE value="6. DI - дз: добавление списка" />
-    <option name="LAST_COMMIT_MESSAGE" value="6. DI - дз: добавление списка" />
+    <MESSAGE value="8. init destroy methods" />
+    <MESSAGE value="8. factory method" />
+    <option name="LAST_COMMIT_MESSAGE" value="8. factory method" />
   </component>
 </project>
