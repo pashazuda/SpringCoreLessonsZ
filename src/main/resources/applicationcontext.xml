@@ -9,12 +9,12 @@
     <bean id="musicBean"
           class="ru.zudkin.springcourse.ClassicalMusic">
     </bean>
-
+    <context:property-placeholder location="classpath:musicPlayer.properties"/>
     <bean id="musicPlayer"
           class="ru.zudkin.springcourse.MusicPlayer">
         <property name="music" ref="musicBean"/>
-        <property name="name" value="Some name"/>
-        <property name="volume" value="50"/>
+        <property name="name" value="${musicPlayer.name}"/>
+        <property name="volume" value="${musicPlayer.volume}"/>
     </bean>
 
 </beans>
