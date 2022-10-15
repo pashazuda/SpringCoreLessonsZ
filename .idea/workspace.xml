@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0401890a-bc96-4734-8735-7081b9218f74" name="Changes" comment="5. DI">
+    <list default="true" id="0401890a-bc96-4734-8735-7081b9218f74" name="Changes" comment="6. DI - setter">
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/MusicPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationcontext.xml" afterDir="false" />
     </list>
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665805912961</updated>
-      <workItem from="1665805914669" duration="4350000" />
+      <workItem from="1665805914669" duration="4739000" />
     </task>
     <task id="LOCAL-00001" summary="IoC">
       <created>1665809817492</created>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665810157956</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="6. DI - setter">
+      <created>1665810692308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665810692308</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IoC" />
     <MESSAGE value="5. DI" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. DI" />
+    <MESSAGE value="6. DI - setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="6. DI - setter" />
   </component>
 </project>
