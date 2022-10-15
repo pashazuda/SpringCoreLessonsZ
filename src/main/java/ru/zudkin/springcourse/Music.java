@@ -1,2 +1,5 @@
-package ru.zudkin.springcourse;public interface Music {
+package ru.zudkin.springcourse;
+
+public interface Music {
+    String getSong();
 }
