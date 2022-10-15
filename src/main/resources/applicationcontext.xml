@@ -9,7 +9,8 @@
     <bean id="musicBean1"
           class="ru.zudkin.springcourse.ClassicalMusic"
           init-method="doMyInit"
-          destroy-method="doMyDestroy">
+          destroy-method="doMyDestroy"
+          factory-method="getClassicalMusic">
     </bean>
     <bean id="musicBean2"
           class="ru.zudkin.springcourse.RapMusic">
