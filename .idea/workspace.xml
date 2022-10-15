@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0401890a-bc96-4734-8735-7081b9218f74" name="Changes" comment="6. DI - из файла пропертиес">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/RapMusic.java" afterDir="false" />
+    <list default="true" id="0401890a-bc96-4734-8735-7081b9218f74" name="Changes" comment="6. DI - дз: добавление списка">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationcontext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665805912961</updated>
-      <workItem from="1665805914669" duration="6162000" />
+      <workItem from="1665805914669" duration="8447000" />
     </task>
     <task id="LOCAL-00001" summary="IoC">
       <created>1665809817492</created>
@@ -115,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665811518467</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6. DI - дз: добавление списка">
+      <created>1665812719579</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665812719579</updated>
+    </task>
+    <task id="LOCAL-00007" summary="6. DI - дз: добавление списка">
+      <created>1665812773859</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665812773859</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +152,7 @@
     <MESSAGE value="6. DI - setter" />
     <MESSAGE value="6. DI - внедрение значений" />
     <MESSAGE value="6. DI - из файла пропертиес" />
-    <option name="LAST_COMMIT_MESSAGE" value="6. DI - из файла пропертиес" />
+    <MESSAGE value="6. DI - дз: добавление списка" />
+    <option name="LAST_COMMIT_MESSAGE" value="6. DI - дз: добавление списка" />
   </component>
 </project>
