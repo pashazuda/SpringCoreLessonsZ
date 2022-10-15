@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0401890a-bc96-4734-8735-7081b9218f74" name="Changes" comment="10. @Component">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0401890a-bc96-4734-8735-7081b9218f74" name="Changes" comment="10. @Autowired для 1 бина">
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zudkin/springcourse/TestSpring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665805912961</updated>
-      <workItem from="1665805914669" duration="10923000" />
+      <workItem from="1665805914669" duration="11234000" />
     </task>
     <task id="LOCAL-00001" summary="IoC">
       <created>1665809817492</created>
@@ -154,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665817943400</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="10. @Autowired для 1 бина">
+      <created>1665819434824</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665819434824</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +186,7 @@
     <MESSAGE value="8. init destroy methods" />
     <MESSAGE value="8. factory method" />
     <MESSAGE value="10. @Component" />
-    <option name="LAST_COMMIT_MESSAGE" value="10. @Component" />
+    <MESSAGE value="10. @Autowired для 1 бина" />
+    <option name="LAST_COMMIT_MESSAGE" value="10. @Autowired для 1 бина" />
   </component>
 </project>
